@@ -1,0 +1,35 @@
+.colorbox {  
+    display: inline-block;  
+    position: absolute; 
+    top: -2.5px;
+    width: 125px;  
+    padding: 10px; 
+    border-radius: 10px 10px 40px 37px;
+    background-color:  #fff;
+} 
+.box  {  
+    margin-left: 10px; 
+} 
+button {  
+    display: inline-block; 
+    width: 15px;
+    height: 15px;  
+    border: none;
+    background-color: blue;
+    border-radius: 40px 40px 40px 37px;
+} 
+.purple { 
+    background-color: #880D57;
+}
+.orange { 
+    background-color: #F77F00;
+}
+.pink { 
+    background-color: #F97068;
+}
+.green { 
+    background-color: #41C83A;
+}
+.blue { 
+    background-color: #4F4789;
+}
